@@ -1,6 +1,5 @@
 pragma solidity ^0.4.0;
 
-import "github.com/zabaas/openzeppelin-contracts/contracts/introspection/IERC165.sol";
 
 /**
  * @dev Implementation of the {IERC165} interface.
